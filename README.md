@@ -1,5 +1,5 @@
 # Simulación
 
-Curso de Simulación - UNI
+Curso de Simulación
 
 Solucionario del libro  * SIMULACIÓN - Sheldon M. Ross - Segunda Edicion*
